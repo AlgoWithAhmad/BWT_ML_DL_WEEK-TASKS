@@ -1,0 +1,1 @@
+this is file for output. the input file is data.txt
